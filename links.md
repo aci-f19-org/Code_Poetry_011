@@ -19,4 +19,6 @@ Lewis Kim https://github.com/lewisKkim/CodePoetry
 
 Bingyu Xia https://github.com/BingyuXia17/Kira_ACT_Poem.git
 
+Bryce Kerr Abraham https://github.com/SirBrect/codePoem.git
+
 
