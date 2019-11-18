@@ -21,4 +21,16 @@ Bingyu Xia https://github.com/BingyuXia17/Kira_ACT_Poem.git
 
 Bryce Kerr Abraham https://github.com/SirBrect/codePoem.git
 
+Yining Lai https://github.com/laiy3leo/Poem.git
+
+Nate Bennett https://github.com/natefbennett/codePoems
+
+Jordan Jackson https://github.com/jyjster/CodePoem.git
+
+Blake Irons https://github.com/blake-irons/codePoem
+
+Morgan Williams https://github.com/willim15/Love-for-a-home
+
+Jerry Huang :'( https://github.com/acijerry/happytogether :'(
+
 
